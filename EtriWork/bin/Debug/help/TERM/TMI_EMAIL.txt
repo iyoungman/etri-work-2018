@@ -1,0 +1,2 @@
+- 이메일주소
+- 예 ) forever@etri.re.kr

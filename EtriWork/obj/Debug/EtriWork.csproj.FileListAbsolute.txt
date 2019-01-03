@@ -1,0 +1,71 @@
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\bin\Debug\EtriWork.exe.config
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Debug\EtriWork.csprojResolveAssemblyReference.cache
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Debug\EtriWork.Form1.resources
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Debug\EtriWork.Properties.Resources.resources
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.GenerateResource.Cache
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\bin\Debug\EtriWork.exe
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\bin\Debug\EtriWork.pdb
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\bin\Debug\Newtonsoft.Json.dll
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Debug\EtriWork.exe
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Debug\EtriWork.pdb
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\bin\Debug\EtriWork.exe.config
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.exe
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.pdb
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\bin\Debug\EtriWork.exe
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\bin\Debug\EtriWork.pdb
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.Form1.resources
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.Properties.Resources.resources
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.GenerateResource.Cache
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.StatusForm.resources
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.csprojResolveAssemblyReference.cache
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.SATStatsForm.resources
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\bin\Debug\EtriWork.exe.config
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.exe
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.pdb
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\bin\Debug\EtriWork.exe
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\bin\Debug\EtriWork.pdb
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.csprojResolveAssemblyReference.cache
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.Form1.resources
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.Properties.Resources.resources
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.SATStatsForm.resources
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.StatusForm.resources
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.GenerateResource.Cache
+C:\Users\hsl95\OneDrive\바탕 화면\ETRI TOOL\ETRI QA평가데이터 구축도구\0.8.5.1\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.ResolveComReference.cache
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\bin\Debug\EtriWork.exe.config
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\bin\Debug\EtriWork.exe
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\bin\Debug\EtriWork.pdb
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.csprojAssemblyReference.cache
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.ResolveComReference.cache
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.Form1.resources
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.Properties.Resources.resources
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.SATStatsForm.resources
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.StatusForm.resources
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.GenerateResource.cache
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.CoreCompileInputs.cache
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.CopyComplete
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.exe
+C:\Users\chunso\Desktop\Temp\카카오톡 받은 파일\EtriWork\EtriWork\obj\Debug\EtriWork.pdb
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\bin\Debug\EtriWork.exe.config
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\obj\Debug\EtriWork.csproj.ResolveComReference.cache
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\obj\Debug\EtriWork.exe
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\obj\Debug\EtriWork.pdb
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\bin\Debug\EtriWork.exe
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\bin\Debug\EtriWork.pdb
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\obj\Debug\EtriWork.csprojResolveAssemblyReference.cache
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\obj\Debug\EtriWork.Form1.resources
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\obj\Debug\EtriWork.Properties.Resources.resources
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\obj\Debug\EtriWork.SATStatsForm.resources
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\obj\Debug\EtriWork.StatusForm.resources
+C:\Users\hsl95\OneDrive\바탕 화면\EtriWork (2)\EtriWork\obj\Debug\EtriWork.csproj.GenerateResource.Cache
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\bin\Debug\EtriWork.exe.config
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.ResolveComReference.cache
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\obj\Debug\EtriWork.exe
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\obj\Debug\EtriWork.pdb
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\bin\Debug\EtriWork.exe
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\bin\Debug\EtriWork.pdb
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\obj\Debug\EtriWork.csprojResolveAssemblyReference.cache
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\obj\Debug\EtriWork.Form1.resources
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\obj\Debug\EtriWork.Properties.Resources.resources
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\obj\Debug\EtriWork.SATStatsForm.resources
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\obj\Debug\EtriWork.StatusForm.resources
+D:\이영준\Cosmos연구실\ETRI2018\최종\ETRI 용역완료\학습데이터 구축 도구\EtriWork\EtriWork\obj\Debug\EtriWork.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\bin\Release\EtriWork.exe.config
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\bin\Release\EtriWork.exe
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\bin\Release\EtriWork.pdb
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\bin\Release\Newtonsoft.Json.dll
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\bin\Release\System.Net.Json.dll
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Release\EtriWork.Form1.resources
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Release\EtriWork.Properties.Resources.resources
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Release\EtriWork.csproj.GenerateResource.Cache
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Release\EtriWork.exe
+C:\Users\hsl95\OneDrive\documents\visual studio 2013\Projects\EtriWork\EtriWork\obj\Release\EtriWork.pdb
